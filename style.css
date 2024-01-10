@@ -1,11 +1,7 @@
 body{
-    /*background: linear-gradient(#fcb103 20% , #90fc03 40% , #03fcca 60% , #b103fc 80% ,  #fc03a5 100%);*/
     background-image: url(https://cdn.pixabay.com/photo/2016/08/11/23/48/mountains-1587287_1280.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-}
-img{
-    opacity: 0.3;
 }
 
 #img1{
